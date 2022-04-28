@@ -69,12 +69,111 @@ body {
     position: absolute;
 }
 
+.image{
+    position: absolute;
+    width: 370px;
+    height: 370px;
+}
 
 /** ids **/
 
 #impact{
-    left: 660px;
+    left: 600px;
     top:100px;
+}
+
+#thailand{
+    left: 700px;
+    top: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+#subheading1{
+    left: 500px;
+    top: 500px;
+    width: 900px;
+    height: 37px;
+}
+
+#p1{
+    left: 550px;
+    top: 600px;
+    width: 500px;
+    height: 200px;
+}
+
+#protest{
+    top:600px;
+    left: 0px;
+
+}
+
+#waterpollution{
+    left: 150px;
+    top: 200px;
+    width: 200px;
+    height: 200px;
+}
+
+#pollutedriver{
+    left: 1250px;
+    top:200px;
+    width: 200px;
+    height: 200px;
+}
+
+#hotspots{
+    top:600px;
+    left: 1150px;
+}
+
+#subheading2{
+    top:700px;
+    left: 370px;
+    width: 800px;
+    height: 200px;
+}
+
+#p2{
+    left: 550px;
+    top: 800px;
+    width: 500px;
+    height: 200px;
+}
+
+#subheading3{
+    top: 900px;
+    left: 700px;
+    width: 800px;
+    height: 200px;
+}
+
+#stats{
+    top: 1000px;
+    left: 525px;
+    width: 500px;
+    height: 200px;
+}
+
+#stat1{
+    top: 1175px;
+    left:0px;
+}
+
+#stat2{
+    top: 1175px;
+    left:600px;
+}
+
+#explainer{
+    top: 1550px;
+    left: 600px;
+}
+
+#circlechart{
+    top: 1175px;
+    left: 1100px;
 }
 
 
