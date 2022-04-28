@@ -10,7 +10,7 @@ body {
 .navbar ul {
     
     list-style: none;
-    width:1000px;
+    width: 1500px;
     left: 0px;
     top:19px;
     height: 35px;
@@ -62,6 +62,11 @@ body {
     font-size: 18px;
 }
 
+.bulletlist{
+    font-size: 18px;
+    position: absolute;
+}
+
 
 
 /** ids**/
@@ -81,17 +86,17 @@ body {
 
 #image1 {
     position: absolute;
-    left: 75px;
-    top: 100px;
-    width: 412px;
+    left: 25px;
+    top: 150px;
+    width: 370px;
     height: 270px;
 }
 
 #image2{
     position: absolute;
-    left: 1025px;
-    top: 0px;
-    width: 412px;
+    left: 1125px;
+    top: 50px;
+    width: 370px;
     height: 370px;
 }
 
@@ -163,12 +168,55 @@ body {
     left: 660px;
     top: 700px;
     height: 145px;
-    width: 37px;
+    width: 200px;
 }
 
 #defparagraph{
     left: 660px;
-    top: 850px;
+    top: 800px;
     height: 94px;
     width: 400px;
+}
+
+#monkeyimage{
+    position: absolute;
+    left: 25px;
+    width: 370px;
+    height: 370px;
+    top: 700px;
+}
+
+#destructionimage{
+    position: absolute;
+    left: 1125px;
+    width: 370px;
+    height: 370px;
+    top: 700px;
+}
+
+#subheading3{
+    top: 950px;
+    left:660px;
+    height: 145px;
+    width: 200px;
+}
+
+#smolparagraph1{
+    top:1000px;
+    left:660px;
+    height: 145px;
+    width: 200px;
+}
+#naturalcauses{
+    top: 1050px;
+    left:660px;
+    height: 145px;
+    width: 200px;
+}
+
+#subheading4{
+    top:1150px;
+    left:660px;
+    height: 145px;
+    width: 200px;
 }
