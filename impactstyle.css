@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+
+body {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 25px;
+}
+
+/**classes**/ 
+
+.navbar ul {
+    
+    list-style: none;
+    width: 1500px;
+    left: 0px;
+    top:19px;
+    height: 35px;
+    margin: 0 auto;
+    padding : 0;
+    background-color :white;
+    text-align : center;
+
+}
+
+.navbar li {
+    width: 300 px;
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    height: 145px;
+    width: 500px;
+}
+
+.subparagraph {
+    font-size: 12px;
+    position: absolute;
+}
+
+.subheading{
+    position: absolute;
+    font-size: 26px;
+}
+
+.icon{
+    position: absolute;
+    width: 53px;
+    height: 53px;
+}
+
+.middleheading{
+    position: absolute;
+    font-size: 16px;
+}
+
+.paragraph{
+    position: absolute;
+    font-size: 18px;
+}
+
+.bulletlist{
+    font-size: 18px;
+    position: absolute;
+}
+
+
+/** ids **/
+
+#impact{
+    left: 660px;
+    top:100px;
+}
+
+
