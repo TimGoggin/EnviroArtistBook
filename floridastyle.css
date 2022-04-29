@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+
+body {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 25px;
+}
+
+/**classes**/ 
+
+.navbar ul {
+    
+    list-style: none;
+    width: 1500px;
+    left: 0px;
+    top:19px;
+    height: 35px;
+    margin: 0 auto;
+    padding : 0;
+    background-color :white;
+    text-align : center;
+
+}
+
+.navbar li {
+    width: 300 px;
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    height: 145px;
+    width: 500px;
+}
+
+.subparagraph {
+    font-size: 12px;
+    position: absolute;
+}
+
+.subheading{
+    position: absolute;
+    font-size: 26px;
+}
+
+.icon{
+    position: absolute;
+    width: 53px;
+    height: 53px;
+}
+
+.middleheading{
+    position: absolute;
+    font-size: 16px;
+}
+
+.paragraph{
+    position: absolute;
+    font-size: 18px;
+}
+
+.bulletlist{
+    font-size: 18px;
+    position: absolute;
+}
+
+.image{
+    position: absolute;
+    width: 370px;
+    height: 370px;
+}
+
+#title{
+    width: 1000px;
+    top: 50px;
+    left: 400px;
+}
+
+#p1{
+    width: 400px;
+    top: 100px;
+    left: 550px;
+}
+
+#subheading1{
+    top: 300px;
+    left: 550px;
+}
+
+#p2{
+    width: 400px;
+    top: 350px;
+    left: 550px;  
+}
+
+#subheading2{
+    top:475px;
+    left: 650px;
+}
+
+#p3{
+    width: 400px;
+    top: 525px;
+    left: 550px; 
+}
+
+#image1{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 150px;
+    left: 60px;
+}
+
+#image2{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 150px;
+    left: 1100px;
+}
