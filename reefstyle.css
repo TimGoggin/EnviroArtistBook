@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+
+body {
+    font-family: 'Noto Sans SC', sans-serif;
+    font-size: 25px;
+}
+
+/**classes**/ 
+
+.navbar ul {
+    
+    list-style: none;
+    width: 1500px;
+    left: 0px;
+    top:19px;
+    height: 35px;
+    margin: 0 auto;
+    padding : 0;
+    background-color :white;
+    text-align : center;
+
+}
+
+.navbar li {
+    width: 300 px;
+    background-color: white;
+    border: 1px solid white;
+    padding: 10px;
+    display: inline-block;
+    line-height: 40px;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+    height: 145px;
+    width: 500px;
+}
+
+.subparagraph {
+    font-size: 12px;
+    position: absolute;
+}
+
+.subheading{
+    position: absolute;
+    font-size: 26px;
+}
+
+.icon{
+    position: absolute;
+    width: 53px;
+    height: 53px;
+}
+
+.middleheading{
+    position: absolute;
+    font-size: 16px;
+}
+
+.paragraph{
+    position: absolute;
+    font-size: 18px;
+}
+
+.bulletlist{
+    font-size: 18px;
+    position: absolute;
+}
+
+.image{
+    position: absolute;
+    width: 370px;
+    height: 370px;
+}
+
+#title{
+    left: 650px;
+    top: 100px;
+}
+
+#subheading1{
+    left: 550px;
+    top: 150px;
+}
+
+#p1{
+    top:200px;
+    left: 620px;
+    width: 400px;
+}
+
+#image1{
+    top:400px;
+    left: 620px;
+}
+
+#image2{
+    top:150px;
+    left: 100px;
+}
+
+#subheading2{
+    left: 200px;
+    top: 150px;
+}
+
+#p2{
+    left:125px;
+    top:200px;
+}
+
+#subheading3{
+    left: 175px;
+    top: 300px;
+}
+
+#threats{
+    left: 125px;
+    top:350px;
+}
+
+#subheading4{
+    top:150px;
+    left: 1100px;
+    width: 400px;
+}
+
+#p3{
+    top:250px;
+    left: 1100px;
+}
+
+#subheading5{
+    top:300px;
+    left: 1200px;
+}
+
+#p4{
+    top:350px;
+    left: 1100px;
+}
