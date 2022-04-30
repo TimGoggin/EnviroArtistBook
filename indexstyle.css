@@ -93,12 +93,22 @@ body {
     height: 270px;
 }
 
+#image1credit{
+    top: 415px;
+    left: 100px;
+}
+
 #image2{
     position: absolute;
     left: 1125px;
     top: 150px;
     width: 370px;
     height: 270px;
+}
+
+#image2credit{
+    top: 415px;
+    left: 1240px;
 }
 
 #subheading1{
@@ -187,12 +197,22 @@ body {
     top: 700px;
 }
 
+#monkeycredit{
+    top: 1075px;
+    left: 80px;
+}
+
 #destructionimage{
     position: absolute;
     left: 1125px;
     width: 370px;
     height: 370px;
     top: 700px;
+}
+
+#destructioncredit{
+    top: 1075px;
+    left: 1210px;
 }
 
 #subheading3{
@@ -243,10 +263,20 @@ body {
     height: 270px;
 }
 
+#phillipinescredit{
+    top:1585px;
+    left: 80px;
+}
+
 #germany{
         position: absolute;
         left: 1125px;
         top: 1320px;
         width: 370px;
         height: 270px;
+}
+
+#germanycredit{
+    top:1585px;
+    left:1200px;
 }
