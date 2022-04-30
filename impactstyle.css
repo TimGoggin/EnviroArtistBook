@@ -84,10 +84,15 @@ body {
 }
 
 #thailand{
-    left: 675px;
+    left: 665px;
     top: 200px;
     width: 200px;
     height: 200px;
+}
+
+#thailandcredit{
+    top: 400px;
+    left: 635px;
 }
 
 #subheading1{
@@ -110,11 +115,21 @@ body {
 
 }
 
+#protestcredit{
+    top:960px;
+    left: 50px;
+}
+
 #waterpollution{
     left: 60px;
     top: 200px;
     width: 200px;
     height: 200px;
+}
+
+#waterpollutioncredit{
+    left: 30px;
+    top: 400px;
 }
 
 #pollutedriver{
@@ -124,9 +139,19 @@ body {
     height: 200px;
 }
 
+#rivercredit{
+    top : 400px;
+    left: 1250px;
+}
+
 #hotspots{
     top:600px;
     left: 1150px;
+}
+
+#hotspotcredit{
+    top:960px;
+    left: 1160px;
 }
 
 #subheading2{
@@ -169,12 +194,18 @@ body {
 
 #explainer{
     top: 1550px;
-    left: 487px;
+    left: 600px;
 }
 
 #circlechart{
     top: 1175px;
-    left: 1100px;
+    left: 1095px;
+}
+
+#circleexplainer{
+    top: 1550px;
+    left: 1080px;
+    width: 450px;
 }
 
 
