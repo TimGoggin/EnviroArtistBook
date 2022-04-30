@@ -3,6 +3,7 @@
 body {
     font-family: 'Noto Sans SC', sans-serif;
     font-size: 25px;
+    background-color: #BBBBBB;
 }
 
 /**classes**/ 
@@ -16,15 +17,15 @@ body {
     height: 35px;
     margin: 0 auto;
     padding : 0;
-    background-color :white;
+    background-color :#BBBBBB;
     text-align : center;
 
 }
 
 .navbar li {
     width: 300 px;
-    background-color: white;
-    border: 1px solid white;
+    background-color: #BBBBBB;
+    border: 1px solid #BBBBBB;
     padding: 10px;
     display: inline-block;
     line-height: 40px;
@@ -71,14 +72,14 @@ body {
 
 /** ids**/
 #maintitle {
-    left: 650px;
+    left: 616px;
     top: 100px;
     width: 267px;
     height: 72px;
 }
 
 #credit {
-    left: 650px;
+    left: 616px;
     top: 200px;
     width: 236px;
     height: 36px;
@@ -95,13 +96,13 @@ body {
 #image2{
     position: absolute;
     left: 1125px;
-    top: 50px;
+    top: 150px;
     width: 370px;
-    height: 370px;
+    height: 270px;
 }
 
 #subheading1{
-    left: 620px;
+    left: 607px;
     top: 300px;
     width: 300px;
     height: 37px;
@@ -113,7 +114,7 @@ body {
 }
 
 #thumbsdownicon{
-    left: 720px;
+    left: 730px;
     top: 450px;
 }
 
@@ -140,14 +141,14 @@ body {
     top: 500px;
     width: 224px;
     height: 19px;
-    left: 683px;
+    left: 693px;
 }
 
 #thumbsparagraph{
     top:550px;
     width:170px;
     height:113px;
-    left:683px;
+    left:693px;
 }
 
 #middleheading3{
@@ -165,14 +166,14 @@ body {
 }
 
 #subheading2{
-    left: 630px;
+    left: 695px;
     top: 700px;
     height: 145px;
     width: 200px;
 }
 
 #defparagraph{
-    left: 630px;
+    left: 695px;
     top: 800px;
     height: 94px;
     width: 400px;
@@ -196,40 +197,40 @@ body {
 
 #subheading3{
     top: 950px;
-    left:630px;
+    left:695px;
     height: 145px;
     width: 200px;
 }
 
 #smolparagraph1{
     top:1000px;
-    left:630px;
+    left:695px;
     height: 145px;
     width: 200px;
 }
 #naturalcauses{
     top: 1050px;
-    left:630px;
+    left:695px;
     height: 145px;
     width: 200px;
 }
 
 #subheading4{
     top:1150px;
-    left:630px;
+    left:695px;
     height: 145px;
     width: 200px;
 }
 
 #smolparagraph2{
     top:1250px;
-    left:630px;
+    left:695px;
     height: 145px;
     width: 200px;
 }
 #humancauses{
     top: 1300px;
-    left:630px;
+    left:695px;
     height: 145px;
     width: 200px;
 }
