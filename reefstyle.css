@@ -93,32 +93,33 @@ body {
 }
 
 #image1{
-    top:400px;
+    top:350px;
     left: 575px;
 }
 
-#image2{
-    top:150px;
-    left: 100px;
+#image1credit{
+    top:705px;
+    left: 650px;
 }
 
+
 #subheading2{
-    left: 200px;
+    left: 110px;
     top: 150px;
 }
 
 #p2{
-    left:125px;
+    left:45px;
     top:200px;
 }
 
 #subheading3{
-    left: 175px;
+    left: 110px;
     top: 300px;
 }
 
 #threats{
-    left: 125px;
+    left: 30px;
     top:350px;
 }
 
