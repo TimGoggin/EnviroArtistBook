@@ -3,6 +3,7 @@
 body {
     font-family: 'Noto Sans SC', sans-serif;
     font-size: 25px;
+    background-color: #009dc4
 }
 
 /**classes**/ 
@@ -16,15 +17,15 @@ body {
     height: 35px;
     margin: 0 auto;
     padding : 0;
-    background-color :white;
+    background-color :#009dc4;
     text-align : center;
 
 }
 
 .navbar li {
     width: 300 px;
-    background-color: white;
-    border: 1px solid white;
+    background-color: #009dc4;
+    border: 1px solid #009dc4;
     padding: 10px;
     display: inline-block;
     line-height: 40px;
@@ -76,24 +77,24 @@ body {
 }
 
 #title{
-    left: 650px;
+    left: 590px;
     top: 100px;
 }
 
 #subheading1{
-    left: 550px;
+    left: 520px;
     top: 150px;
 }
 
 #p1{
     top:200px;
-    left: 620px;
+    left: 570px;
     width: 400px;
 }
 
 #image1{
     top:400px;
-    left: 620px;
+    left: 575px;
 }
 
 #image2{
