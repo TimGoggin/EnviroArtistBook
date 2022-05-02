@@ -3,6 +3,7 @@
 body {
     font-family: 'Noto Sans SC', sans-serif;
     font-size: 25px;
+    background-color: #BBBBBB;
 }
 
 /**classes**/ 
@@ -16,15 +17,15 @@ body {
     height: 35px;
     margin: 0 auto;
     padding : 0;
-    background-color :white;
+    background-color :#BBBBBB;
     text-align : center;
 
 }
 
 .navbar li {
     width: 300 px;
-    background-color: white;
-    border: 1px solid white;
+    background-color: #BBBBBB;
+    border: 1px solid #BBBBBB;
     padding: 10px;
     display: inline-block;
     line-height: 40px;
@@ -92,20 +93,20 @@ body {
 
 #photosHeading{
     left: 660px;
-    top: 575px;
+    top: 775px;
 }
 
 #photosParagraph{
     left: 0px;
-    top:625px;
+    top: 825px;
 }
 
 #chartHeading{
     left: 660px;
-    top:1000px;
+    top:1300px;
 }
 
 #chartParagraph{
     left: 0px;
-    top: 1050px;
+    top: 1350px
 }
